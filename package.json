@@ -1,0 +1,19 @@
+{
+  "name": "task-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FilipsMasolovs/node-task-one.git"
+  },
+  "author": "Filips Masolovs <filips.masolovs@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FilipsMasolovs/node-task-one/issues"
+  },
+  "homepage": "https://github.com/FilipsMasolovs/node-task-one#readme"
+}
